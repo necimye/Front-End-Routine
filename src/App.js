@@ -58,7 +58,7 @@ function App() {
           theme="dark"
           mode="inline"
           defaultSelectedKeys={["1"]}
-          style={{ fontSize: "20px" }}
+          style={{ fontSize: "21px" }}
         >
           {/* <Menu.Item key="1" icon={<UserOutlined />}>
             <Link to="/">Lectures</Link>
